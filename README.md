@@ -2,8 +2,10 @@
 Learning OOP Paradigm
 
 
+
 e.1 
 ![imagen](https://user-images.githubusercontent.com/49128144/147919218-bae70bd3-056f-42d1-be99-e3e6ff49dd28.png)
+
 
 
 
